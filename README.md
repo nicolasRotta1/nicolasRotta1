@@ -56,7 +56,7 @@ Estou buscando minha **primeira oportunidade profissional** na área de desenvol
 
 ### 🚀 Projetos em Destaque
 
-[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=nicolasRotta1repo=Devs2Blu&bg_color=0d1412&border_color=fff&show_icons=true&icon_color=5005D5&title_color=80D500&text_color=FFF)](https://github.com/nicolasRotta1/Devs2Blu)
+[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=nicolasRotta1 repo=Devs2Blu&bg_color=0d1412&border_color=fff&show_icons=true&icon_color=5005D5&title_color=80D500&text_color=FFF)](https://github.com/nicolasRotta1/Devs2Blu)
 
 
 ---
