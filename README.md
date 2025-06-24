@@ -39,7 +39,7 @@ Estou buscando minha **primeira oportunidade profissional** na área de desenvol
 ### 📚 Formação e Cursos
 
 *   **Cursando:** Técnico em Desenvolvimento de Sistemas - CEDUP Hermann Hering (1200 Horas)
-*   **Cursando** Curso +Devs2Blu (MoreDevsToBlu) - Turma de Java (480 Horas)
+*   **Cursando:** Curso +Devs2Blu (MoreDevsToBlu) - Turma de Java (480 Horas)
 
 ---
 
