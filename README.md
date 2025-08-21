@@ -49,6 +49,8 @@ Estou buscando minha **primeira oportunidade profissional** na área de desenvol
 ### 📊 Minhas Estatísticas no GitHub
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasRotta1&show_icons=true&theme=dracula)](https://github.com/nicolasRotta1)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasRotta1&layout=compact&langs_count=7&theme=dracula)](https://github.com/nicolasRotta1)
 
 
