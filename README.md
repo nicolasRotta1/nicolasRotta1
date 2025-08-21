@@ -48,12 +48,9 @@ Estou buscando minha **primeira oportunidade profissional** na área de desenvol
 
 ### 📊 Minhas Estatísticas no GitHub
 
-<div>
-  <a href="https://github.com/nicolasRotta1">
-  <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=nicolasRotta1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasRotta1&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasRotta1&show_icons=true&theme=dracula)](https://github.com/nicolasRotta1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasRotta1&layout=compact&langs_count=7&theme=dracula)](https://github.com/nicolasRotta1)
+
 
 ---
 
