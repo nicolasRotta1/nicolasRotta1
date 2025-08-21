@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre Mim
 
-### 🔭 Tenho 17 anos e estou começando minha carreira profissional, atualmente estudo no CEDUP Hermann Hering com ensino médio e ensino técnico de Desenvolvimento de Sistemas integrado.
+### 🔭 Tenho 18 anos e estou começando minha carreira profissional, atualmente estudo no CEDUP Hermann Hering com ensino médio e ensino técnico de Desenvolvimento de Sistemas integrado.
 
 Estou buscando minha **primeira oportunidade profissional** na área de desenvolvimento, onde possa aplicar meus conhecimentos, adquirir experiência prática e contribuir para projetos desafiadores. Tenho grande interesse em aprender continuamente e busco um ambiente que valorize o crescimento e o compartilhamento de conhecimento.
 
