@@ -12,6 +12,8 @@ Estou buscando minha **primeira oportunidade profissional** na área de desenvol
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.nrotta79@gmail.com)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-rotta-b60574221/)
+
 ---
 
 ### 🛠️ Tecnologias Estudadas
