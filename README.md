@@ -11,7 +11,6 @@
 Estou buscando minha **primeira oportunidade profissional** na área de desenvolvimento, onde possa aplicar meus conhecimentos, adquirir experiência prática e contribuir para projetos desafiadores. Tenho grande interesse em aprender continuamente e busco um ambiente que valorize o crescimento e o compartilhamento de conhecimento.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.nrotta79@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-rotta-b60574221/)
 
 ---
